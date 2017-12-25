@@ -12,7 +12,7 @@
    height="96.552994mm"
    viewBox="-59.8932 -73.2282 47.265586 96.553001"
    id="svg2051"
-   sodipodi:docname="page5_rocket.svg"
+   sodipodi:docname="page6_rocket.svg"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06">
   <metadata
      id="metadata2055">
@@ -39,9 +39,9 @@
      inkscape:window-height="855"
      id="namedview2053"
      showgrid="false"
-     inkscape:zoom="1.2493052"
-     inkscape:cx="14.179248"
-     inkscape:cy="139.8502"
+     inkscape:zoom="0.88339218"
+     inkscape:cx="55.307066"
+     inkscape:cy="263.26432"
      inkscape:window-x="40"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
@@ -49,7 +49,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     showguides="false" />
   <title
      id="title2">/Users/muzy/git/blinkenrocketv2/hardware/blinkenrocket_cr2032_v2.brd</title>
   <desc
@@ -497,7 +498,7 @@ polygon.l255 {fill:#ff0000; }
      x="-3.1433361"
      class="l30" />
   <circle
-     style="fill:#dc1919;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c8c8c8;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="circle8798"
      r="1.143"
      cy="31.26041"
@@ -505,7 +506,7 @@ polygon.l255 {fill:#ff0000; }
      class="j30"
      transform="matrix(0,-1,-1,0,0,0)" />
   <circle
-     style="fill:#dc1919;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c8c8c8;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="circle8804"
      r="1.143"
      cy="33.76041"
@@ -513,7 +514,7 @@ polygon.l255 {fill:#ff0000; }
      class="j30"
      transform="matrix(0,-1,-1,0,0,0)" />
   <circle
-     style="fill:#dc1919;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c8c8c8;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="circle8810"
      r="1.143"
      cy="36.26041"
@@ -521,7 +522,7 @@ polygon.l255 {fill:#ff0000; }
      class="j30"
      transform="matrix(0,-1,-1,0,0,0)" />
   <circle
-     style="fill:#dc1919;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c8c8c8;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="circle8816"
      r="1.143"
      cy="41.26041"
@@ -529,7 +530,7 @@ polygon.l255 {fill:#ff0000; }
      class="j30"
      transform="matrix(0,-1,-1,0,0,0)" />
   <circle
-     style="fill:#dc1919;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c8c8c8;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="circle8822"
      r="1.143"
      cy="38.76041"
@@ -799,7 +800,7 @@ polygon.l255 {fill:#ff0000; }
      x="-51.978775"
      class="l27" />
   <rect
-     style="fill:#dc1919;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c8c8c8;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect9150"
      transform="scale(1,-1)"
      rx="0.81279999"
@@ -809,7 +810,7 @@ polygon.l255 {fill:#ff0000; }
      x="-58.599705"
      class="l30" />
   <rect
-     style="fill:#dc1919;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c8c8c8;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect9156"
      transform="scale(1,-1)"
      rx="0.81279999"
@@ -819,7 +820,7 @@ polygon.l255 {fill:#ff0000; }
      x="-52.097313"
      class="l30" />
   <rect
-     style="fill:#dc1919;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c8c8c8;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect9162"
      transform="scale(1,-1)"
      rx="0.81279999"
@@ -829,7 +830,7 @@ polygon.l255 {fill:#ff0000; }
      x="-58.599705"
      class="l30" />
   <rect
-     style="fill:#dc1919;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c8c8c8;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect9168"
      transform="scale(1,-1)"
      rx="0.81279999"
@@ -846,7 +847,7 @@ polygon.l255 {fill:#ff0000; }
      x="-10.957775"
      class="l27" />
   <rect
-     style="fill:#dc1919;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c8c8c8;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect9228"
      transform="scale(-1,1)"
      rx="0.81279999"
@@ -856,7 +857,7 @@ polygon.l255 {fill:#ff0000; }
      x="13.921116"
      class="l30" />
   <rect
-     style="fill:#dc1919;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c8c8c8;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect9234"
      transform="scale(-1,1)"
      rx="0.81279999"
@@ -866,7 +867,7 @@ polygon.l255 {fill:#ff0000; }
      x="20.423512"
      class="l30" />
   <rect
-     style="fill:#dc1919;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c8c8c8;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect9240"
      transform="scale(-1,1)"
      rx="0.81279999"
@@ -876,7 +877,7 @@ polygon.l255 {fill:#ff0000; }
      x="13.921116"
      class="l30" />
   <rect
-     style="fill:#dc1919;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c8c8c8;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect9246"
      transform="scale(-1,1)"
      rx="0.81279999"
@@ -887,7 +888,7 @@ polygon.l255 {fill:#ff0000; }
      class="l30" />
   <line
      id="line9254"
-     style="fill:none;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#dc1919;stroke-width:0.5291667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      y2="-45.414936"
      x2="-32.560413"
      y1="-45.414936"
@@ -895,7 +896,7 @@ polygon.l255 {fill:#ff0000; }
      class="l22" />
   <line
      id="line9256"
-     style="fill:none;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#dc1919;stroke-width:0.5291667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      y2="-49.614933"
      x2="-46.76041"
      y1="-45.414936"
@@ -903,7 +904,7 @@ polygon.l255 {fill:#ff0000; }
      class="l22" />
   <line
      id="line9258"
-     style="fill:none;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#dc1919;stroke-width:0.5291667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      y2="-49.614933"
      x2="-25.76041"
      y1="-45.414936"
@@ -912,12 +913,12 @@ polygon.l255 {fill:#ff0000; }
   <path
      inkscape:connector-curvature="0"
      id="path9260"
-     style="fill:none;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#dc1919;stroke-width:0.5291667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m -30.860406,-62.714935 a 7.313641,7.313641 0 0 1 -10.7,0.1"
      class="l22" />
   <line
      id="line9262"
-     style="fill:none;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#dc1919;stroke-width:0.5291667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      y2="-52.314938"
      x2="-25.76041"
      y1="-49.614933"
@@ -925,7 +926,7 @@ polygon.l255 {fill:#ff0000; }
      class="l22" />
   <line
      id="line9264"
-     style="fill:none;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#dc1919;stroke-width:0.5291667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      y2="-52.314938"
      x2="-46.76041"
      y1="-49.614933"
@@ -934,18 +935,18 @@ polygon.l255 {fill:#ff0000; }
   <path
      inkscape:connector-curvature="0"
      id="path9266"
-     style="fill:none;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#dc1919;stroke-width:0.5291667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m -46.760406,-60.614935 a 2.967906,2.967906 0 0 1 5.2,-2"
      class="l22" />
   <path
      inkscape:connector-curvature="0"
      id="path9268"
-     style="fill:none;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#dc1919;stroke-width:0.5291667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m -30.960406,-62.614935 a 2.994022,2.994022 0 0 1 5.2,2"
      class="l22" />
   <line
      id="line9270"
-     style="fill:none;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#dc1919;stroke-width:0.5291667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      y2="-58.314938"
      x2="-46.76041"
      y1="-60.614933"
@@ -953,14 +954,14 @@ polygon.l255 {fill:#ff0000; }
      class="l22" />
   <line
      id="line9272"
-     style="fill:none;stroke:#000000;stroke-width:0.26458335;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#dc1919;stroke-width:0.5291667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      y2="-58.314938"
      x2="-25.76041"
      y1="-60.614933"
      x1="-25.76041"
      class="l22" />
   <rect
-     style="fill:#dc1919;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c8c8c8;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect9274"
      transform="scale(1,-1)"
      rx="3.8608"
@@ -970,7 +971,7 @@ polygon.l255 {fill:#ff0000; }
      x="-40.121212"
      class="l30" />
   <circle
-     style="fill:#dc1919;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c8c8c8;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="circle9278"
      r="1.1938"
      cy="46.660412"
@@ -978,7 +979,7 @@ polygon.l255 {fill:#ff0000; }
      class="j30"
      transform="matrix(0,-1,-1,0,0,0)" />
   <circle
-     style="fill:#dc1919;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c8c8c8;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="circle9284"
      r="1.1938"
      cy="46.660412"
@@ -986,7 +987,7 @@ polygon.l255 {fill:#ff0000; }
      class="j30"
      transform="matrix(0,-1,-1,0,0,0)" />
   <circle
-     style="fill:#dc1919;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c8c8c8;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="circle9290"
      r="1.1938"
      cy="25.860416"
@@ -994,7 +995,7 @@ polygon.l255 {fill:#ff0000; }
      class="j30"
      transform="matrix(0,-1,-1,0,0,0)" />
   <circle
-     style="fill:#dc1919;fill-opacity:1;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#c8c8c8;stroke:#000000;stroke-width:0.26458335;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="circle9296"
      r="1.1938"
      cy="25.860416"
